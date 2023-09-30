@@ -30,4 +30,28 @@ You have stumbled onto something great
 </a>
 </p>
 
-<h2> ℹ️ &nbsp;All about me ! Hobbies and Interests</h2>
+<h2> ℹ️ &nbsp;All about me!! Hobbies and Interests</h2>
+```pip
+name: Brian Trang
+located_in: Sydney, Australia 🦘
+current_job: Full Stack Developer
+education 🎓:
+  [
+    "Full Stack Web Development, USYD",
+    "Master's of Optometry, UNSW ",
+    "Bachelor's in Vision Science",
+  ]
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "DevOps",
+  ]
+
+currently_learning: ["Docker, Kubernetes and React Native"]
+2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Gaming", "Binge watching cat & coding tutorials on youtube", "archery", "Driving in peak hour"]
+```
