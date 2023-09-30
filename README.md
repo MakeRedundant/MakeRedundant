@@ -6,11 +6,10 @@
   <img src= "https://tenor.com/view/keyboard-cat-gif-5058503.gif">
 </p>
 
-
-<h1 align="center">
-You have stumbled onto something great <br>       
+<p align="center">
+You have stumbled onto something great! <br>       
 Have a look around 👀 and let's Chat!💬
-</h1>
+</p>
 
 <p align="center">
 <a href="https://makeredundant.github.io/Brian_website/">
@@ -45,7 +44,6 @@ education 🎓:
     "Master's of Optometry, UNSW",
     "Bachelor's in Vision Science",
   ]
-
 fields_of_interests:
   [
     "Web Development",
