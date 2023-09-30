@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://tenor.com/view/edward-cowboy-bebop-web-jamming-gif-14503901">
+  <img src= "https://tenor.com/view/keyboard-cat-gif-5058503.gif">
 </p>
 
 
