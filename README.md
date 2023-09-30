@@ -8,8 +8,8 @@
 
 
 <h1 align="center">
-You have stumbled onto something great  
- Have a look around 👀 and let's Chat!💬
+You have stumbled onto something great       
+Have a look around 👀 and let's Chat!💬
 </h1>
 
 <p align="center">
@@ -30,7 +30,10 @@ You have stumbled onto something great
 </a>
 </p>
 
-<h2> ℹ️ &nbsp;All about me!! Hobbies and Interests</h2>
+<h2> ℹ️ &nbsp;All about me!! Hobbies and Interests 🐱‍💻</h2>
+<p align="center">
+  <img src="https://tenor.com/view/bocchi-the-rock-hitori-gotou-bocchi-gif-27019160.gif" width="30%" height="30%">
+</p>
 
 ```yaml
 name: Brian Trang
@@ -51,5 +54,32 @@ fields_of_interests:
     "UI/UX",
     "DevOps",
   ]
-hobbies: ["Gaming", "Binge watching cat & coding tutorials on youtube", "archery", "Driving in peak hour"]
+hobbies: ["Gaming", "Anime", "Binge watching cat & coding tutorials on youtube", "Archery", "Driving in peak hour"]
 ```
+---  
+  
+<h2> 🖥️ &nbsp; Here's what i know so far!</h2>
+<p align="center">
+  <img src="https://tenor.com/view/ghost-in-the-shell-keyboard-gif-7519694.gif" width="30%" height="30%">
+</p>
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+</p>
+
+---
