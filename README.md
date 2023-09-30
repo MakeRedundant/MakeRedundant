@@ -8,7 +8,7 @@
 
 
 <h1 align="center">
-You have stumbled onto something great       
+You have stumbled onto something great <br>       
 Have a look around 👀 and let's Chat!💬
 </h1>
 
