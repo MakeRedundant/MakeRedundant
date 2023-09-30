@@ -2,7 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
+<p align="center">
+  <img src= "https://tenor.com/view/edward-cowboy-bebop-web-jamming-gif-14503901">
+</p>
+
+
 <h1 align="center">
+You have stumbled onto something great  
  Have a look around 👀 and let's Chat!💬
 </h1>
 
@@ -23,3 +29,5 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
+
+<h2> ℹ️ &nbsp;All about me ! Hobbies and Interests</h2>
