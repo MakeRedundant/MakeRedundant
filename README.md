@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-You have stumbled onto something great! <br>       
+You have stumbled onto something great! <br>
+Check out my portoflio here https://brian-trang-portfolio.netlify.app/ <br>       
 Have a look around 👀 and let's Chat!💬
 </p>
 
