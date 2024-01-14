@@ -6,14 +6,15 @@
   <img src="./github-header-image.png"/>
 </p>
 
-<p align="center">
-  <img src= "https://tenor.com/view/keyboard-cat-gif-5058503.gif">
-</p>
 
 <p align="center">
 You have stumbled onto something great! <br>
 Check out my portoflio here https://brian-trang-portfolio.netlify.app/ <br>       
 Have a look around 👀 and let's Chat!💬
+</p>
+
+<p align="center">
+  <img src= "https://tenor.com/view/keyboard-cat-gif-5058503.gif">
 </p>
 
 <p align="center">
