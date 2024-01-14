@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="./github-header-image.png"/>
+</p>
+
+<p align="center">
   <img src= "https://tenor.com/view/keyboard-cat-gif-5058503.gif">
 </p>
 
